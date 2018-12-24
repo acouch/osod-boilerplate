@@ -8,7 +8,7 @@ This is an example project or boilerplate using [Open Source Open Data](http://o
 
 | Principle | Links |
 ---|----
-Open Source License | [![GPL License](https://img.shields.io/badge/license-GLP-blue.svg)](README.md)
+Open Source License | [![GPL License](https://img.shields.io/badge/license-GLP-blue.svg)](LICENSE)
 Open Contribution |  [Contributors Guide](CONTRIBUTORS.md)
 Open Process | [Roadmap](ROADMAP.md)
 Open Adoption | [Adoption Policy](ADOPTION.md)
