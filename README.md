@@ -13,6 +13,6 @@ Open Contribution |  [Contributors Guide](CONTRIBUTORS.md)
 Open Process | [Roadmap](ROADMAP.md)
 Open Adoption | [Adoption Policy](ADOPTION.md)
 Open Community | <ul><li>Link to slack or gitter channel</li><li>[Code of conduct](https://opensource.guide/code-of-conduct/)</li>
-Open Standards | Open [Standards](STANDARDS.md) used by this project
+Open Standards | [Open Standards](STANDARDS.md) used by this project
 Open Data | [Data policy](DATA.md)
 
